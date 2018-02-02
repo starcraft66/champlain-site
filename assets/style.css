@@ -71,6 +71,11 @@ p:last-child{margin-bottom: 0;}
 #portfolio .carousel-arrow{position: absolute;right: 0;top: -55px;color: #629216;font-size: 2em;}
 #portfolio .carousel-arrow.left{right: 40px;}
 
+#portfolioCSMATH {background: #32363A;}
+#portfolioCSMATH h2{color: #fff;}
+#portfolioCSMATH .carousel-arrow{position: absolute;right: 0;top: -55px;color: #629216;font-size: 2em;}
+#portfolioCSMATH .carousel-arrow.left{right: 40px;}
+
 .portfolio-list{float: left;width: 100%;position: relative;overflow: hidden;padding:0;}
 .portfolio-list h3{margin-bottom: 20px;}
 .portfolio-list img{width: 100%;}
@@ -78,6 +83,8 @@ p:last-child{margin-bottom: 0;}
 .portfolio-list:hover .portfolio-overlay{top: 0;bottom: 0;width: 100%;}
 .portfolio-list .portfolio-caption{color:#fff; position:absolute;top: 50%;left: 0;right: 0;transform: translateY(-50%);-moz-transform: translateY(-50%);-webkit-transform: translateY(-50%);transform: translateY(-50%);}
 /*portfolio*/
+
+.shade {text-shadow: 1px 2px 3px black;}
 
 
 
